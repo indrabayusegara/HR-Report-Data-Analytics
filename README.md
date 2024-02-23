@@ -17,6 +17,8 @@ This was done on SQL server 2022 involving
 
 # Data Visualization:
 ---
+![HomePage](https://github.com/indrabayusegara/HR-Report-Data-Analytics/assets/75928437/eb937d9d-4e79-4c6c-a51c-404d62cc2d5e)
+![Page2](https://github.com/indrabayusegara/HR-Report-Data-Analytics/assets/75928437/e5b6e60d-a6b4-4cce-988d-8c384944caab)
 
 
 # Exploratory Data Analysis
